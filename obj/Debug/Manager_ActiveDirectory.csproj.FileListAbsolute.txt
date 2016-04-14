@@ -1,5 +1,0 @@
-D:\DEV\_Assistant\Assistant\Manager_ActiveDirectory\bin\Debug\Manager_ActiveDirectory.pdb
-D:\DEV\_Assistant\Assistant\Manager_ActiveDirectory\obj\Debug\Manager_ActiveDirectory.csprojResolveAssemblyReference.cache
-D:\DEV\_Assistant\Assistant\Manager_ActiveDirectory\obj\Debug\Manager_ActiveDirectory.pdb
-D:\DEV\_Assistant\Assistant\Manager_ActiveDirectory\bin\Debug\Manager_ActiveDirectory.exe
-D:\DEV\_Assistant\Assistant\Manager_ActiveDirectory\obj\Debug\Manager_ActiveDirectory.exe
