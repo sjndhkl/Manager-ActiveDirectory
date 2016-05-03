@@ -1,2 +1,8 @@
-# Manager_ActiveDirectory
-Clean code in progress please take a look later.
+# Usage :
+
+Enterprise ent = new Enterprise();
+ent.Login = _textBoxLogin.Text;
+ent.Password = _textBoxPwd.Text;
+
+List<LDAP.User> _users = _enterprise.Users;
+
