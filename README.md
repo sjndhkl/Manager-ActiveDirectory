@@ -1,8 +1,8 @@
 # Usage :
 
-Enterprise ent = new Enterprise();\n
-ent.Login = _textBoxLogin.Text;\n
-ent.Password = _textBoxPwd.Text;\n
+<p>Enterprise ent = new Enterprise();</p>
+<p>ent.Login = _textBoxLogin.Text;</p>
+<p>ent.Password = _textBoxPwd.Text;</p>
 
 List<LDAP.User> _users = _enterprise.Users;
 
