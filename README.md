@@ -1,4 +1,4 @@
-[![Version Status](https://img.shields.io/nuget/v/Manager_ActiveDirectory.svg)](https://www.nuget.org/packages/Manager_ActiveDirectory/)
+[![Version Status](https://img.shields.io/nuget/v/Manager_ActiveDirectory.svg)](https://www.nuget.org/packages/Manager_ActiveDirectory/) [![License](https://img.shields.io/github/license/brandondahler/Data.HashFunction.svg)](https://raw.githubusercontent.com/ThibaultMontaufray/Tools4Libraries/master/License)
 
 # Usage :
 
