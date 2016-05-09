@@ -1,3 +1,5 @@
+[![Version Status](https://img.shields.io/nuget/v/Manager_ActiveDirectory.svg)](https://www.nuget.org/packages/Manager_ActiveDirectory/)
+
 # Usage :
 
 <p>Enterprise ent = new Enterprise();</p>
