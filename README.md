@@ -1,6 +1,6 @@
-[![Version Status](https://img.shields.io/nuget/v/Manager-ActiveDirectory.svg)](https://www.nuget.org/packages/Manager_ActiveDirectory/)
+[![Version Status](https://img.shields.io/nuget/v/Manager_ActiveDirectory.svg)](https://www.nuget.org/packages/Manager_ActiveDirectory/)
 [![License](https://img.shields.io/github/license/brandondahler/Data.HashFunction.svg)](https://raw.githubusercontent.com/ThibaultMontaufray/Manager_ActiveDirectory/master/License) 
-[![Build Status](https://travis-ci.org/ThibaultMontaufray/Manager_ActiveDirectory.svg?branch=master)](https://travis-ci.org/ThibaultMontaufray/Manager_ActiveDirectory)
+[![Build Status](https://travis-ci.org/ThibaultMontaufray/Manager-ActiveDirectory.svg?branch=master)](https://travis-ci.org/ThibaultMontaufray/Manager-ActiveDirectory)
 
 # Usage :
 
