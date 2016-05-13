@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Manager_ActiveDirectory</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <title>Servodroid.ActiveDirectory</title>
     <authors>Thibault MONTAUFRAY</authors>
     <owners>Servodroid</owners>
@@ -14,4 +14,9 @@
     <copyright>Copyright 2015</copyright>
     <tags>Servodroid active directory user login profile contact</tags>
   </metadata>
+  <files>
+    <file src="lib\**\*.dll" target="lib" />
+    <file src="lib\**\*.xml" target="lib" />
+    <file src="lib\**\*.config" target="lib" />
+  </files>
 </package>
