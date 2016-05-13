@@ -1,5 +1,5 @@
-﻿language: csharp
+language: csharp
 solution: Manager_ActiveDirectory.sln
 mono: latest
-notifications : 
-	email:false
+notifications:
+  email: false
