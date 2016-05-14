@@ -1,18 +1,18 @@
 ﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Manager_ActiveDirectory;
+using NUnit.Framework;
 
 namespace UnitTestProject
 {
-    [TestClass]
+    [TestFixture]
     public class UnitTest
     {
-        [TestMethod]
+        [Test]
         public void TestUTRuns()
         {
             Assert.IsTrue(true);
         }
-        [TestMethod]
+        [Test]
         public void TestNewEnterprise()
         {
             try
