@@ -9,7 +9,7 @@
     <licenseUrl>https://raw.githubusercontent.com/ThibaultMontaufray/Tools4Libraries/master/License</licenseUrl>
     <projectUrl>https://github.com/ThibaultMontaufray/Manager-ActiveDirectory</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/ThibaultMontaufray/Tools4Libraries/master/ManagersDevComponents/servodroidIconColor.png</iconUrl>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>Get all users details on current active directory. Winform just for a display but you can use only object "enterprise". To work well the dll have to be initialised with user credentials on the active directory you want scan.</description>
     <copyright>Copyright 2015</copyright>
     <tags>Servodroid active directory user login profile contact</tags>
