@@ -45,7 +45,7 @@
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
-	<Reference Include="Tools4Libraries, Version=1.0.5976.11865, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Tools4Libraries, Version=1.0.5976.11865, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>packages\Tools4Libraries.1.0.4\lib\4.0\Tools4Libraries.dll</HintPath>
       <Private>True</Private>
     </Reference>
@@ -66,7 +66,7 @@
     <Compile Include="View\LoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
-  </ItemGroup>	
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

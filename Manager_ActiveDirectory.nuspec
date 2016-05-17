@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Manager_ActiveDirectory</id>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <title>Servodroid.ActiveDirectory</title>
     <authors>Thibault MONTAUFRAY</authors>
     <owners>Servodroid</owners>

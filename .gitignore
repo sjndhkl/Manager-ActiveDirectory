@@ -281,3 +281,6 @@ $RECYCLE.BIN/
 *.lnk
 *.cache
 *.cache
+*.dll
+lib/4.0/Manager_ActiveDirectory.vshost.exe
+*.manifest
