@@ -5,6 +5,7 @@ Parsing all sentenses with vocabulary and times. XML file with almost french wor
 [![Version Status](https://img.shields.io/nuget/v/Manager_ActiveDirectory.svg)](https://www.nuget.org/packages/Manager_ActiveDirectory/)
 [![License](https://img.shields.io/github/license/brandondahler/Data.HashFunction.svg)](https://raw.githubusercontent.com/ThibaultMontaufray/Tools4Libraries/master/License)
 [![Build Status](https://travis-ci.org/ThibaultMontaufray/Manager-ActiveDirectory.svg?branch=master)](https://travis-ci.org/ThibaultMontaufray/Manager-ActiveDirectory) 
+[![Build status](https://ci.appveyor.com/api/projects/status/67t64jlre02q5wnk?svg=true)](https://ci.appveyor.com/project/ThibaultMontaufray/Manager-ActiveDirectory)
 [![Coverage Status](https://coveralls.io/repos/github/ThibaultMontaufray/Manager-ActiveDirectory/badge.svg?branch=master)](https://coveralls.io/github/ThibaultMontaufray/Manager-ActiveDirectory?branch=master)
 
 # Usage
