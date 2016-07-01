@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Manager_ActiveDirectory;
 using NUnit.Framework;
 
@@ -20,8 +20,9 @@ namespace UnitTestProject
                 Enterprise ent = new Enterprise();
                 Assert.IsTrue(true);
             }
-            catch (Exception)
+            catch (Exception exp)
             {
+                Console.WriteLine(exp.Message);
                 Assert.Fail();
                 throw;
             }
