@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
@@ -53,8 +53,11 @@ namespace Manager_ActiveDirectory
             {
                 try
                 {
-                    Console.WriteLine("Adding users from : " + ldap.Domain);
-                    _users.AddRange(ldap.Users);
+                    if (ldap != null)
+                    {
+                        Console.WriteLine("Adding users from : " + ldap.Domain);
+                        _users.AddRange(ldap.Users);
+                    }
                 }
                 catch (Exception exp)
                 {
@@ -69,11 +72,15 @@ namespace Manager_ActiveDirectory
         private void Init()
         {
             _ldapList = new List<LDAP>();
+            var adList = DomainManager.GetADList();
 
-            Parallel.ForEach(DomainManager.GetADList(), (adDomain) =>
-            {
-                _ldapList.Add(new LDAP("LDAP://" + adDomain));
-            });
+            if (adList != null)
+            { 
+                Parallel.ForEach(DomainManager.GetADList(), (adDomain) =>
+                {
+                    if (!string.IsNullOrEmpty(adDomain)) { _ldapList.Add(new LDAP("LDAP://" + adDomain)); }
+                });
+            }
         }
         #endregion
     }
